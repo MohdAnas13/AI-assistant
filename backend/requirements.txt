@@ -1,7 +1,4 @@
 Flask
-SQLAlchemy
-google-generativeai
-ultralytics
-opencv-python
-pyttsx3
 mysql-connector-python
+gemini-api
+pyttsx3
